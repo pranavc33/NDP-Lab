@@ -1,0 +1,5 @@
+google.com  172.217.168.14
+facebook.com  31.13.65.36
+example.com  93.184.216.34
+openai.com  104.20.22.46
+github.com  140.82.112.3
